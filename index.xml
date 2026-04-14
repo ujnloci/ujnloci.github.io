@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home | UJN-网络智能实验室</title><link>https://ujnloci.github.io/</link><atom:link href="https://ujnloci.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Home</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://ujnloci.github.io/media/icon_hu_da05098ef60dc2e7.png</url><title>Home</title><link>https://ujnloci.github.io/</link></image><item><title>联系我们</title><link>https://ujnloci.github.io/contact/</link><pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate><guid>https://ujnloci.github.io/contact/</guid><description>&lt;div class="grid gap-6 md:grid-cols-2 mt-8"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home | UJN-网络智能实验室</title><link>https://ujnloci.github.io/</link><atom:link href="https://ujnloci.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Home</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://ujnloci.github.io/media/icon_hu_da05098ef60dc2e7.png</url><title>Home</title><link>https://ujnloci.github.io/</link></image><item><title>课题组两篇论文被 SECON 2026 正式录用</title><link>https://ujnloci.github.io/post/2026-secon-accepted/</link><pubDate>Tue, 14 Apr 2026 00:00:00 +0800</pubDate><guid>https://ujnloci.github.io/post/2026-secon-accepted/</guid><description>&lt;p&gt;近日，课题组张一、刘少磊同学的两篇论文被通信与网络领域权威会议 &lt;strong&gt;SECON 2026&lt;/strong&gt; 正式接收。SECON 是 CCF B 类国际学术会议，长期聚焦无线、移动及多媒体网络前沿研究。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="论文一adseeker"&gt;论文一：AdSeeker&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;题目：&lt;/strong&gt; AdSeeker: An Agent-Driven Framework for Automated Malicious Ad Detection in Mobile Apps&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;作者：&lt;/strong&gt; 张一&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;会议：&lt;/strong&gt; IEEE SECON 2026（CCF B 类）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;简介：&lt;/strong&gt; 提出首个将智能体（Agent）技术应用于移动端恶意广告检测的自动化框架。通过动态 UI 探索、多维度特征采集（重定向链接、权限信息、SDK 元数据、广告图像）与结构化报告生成，实现恶意广告全流程无人干预检测。在 30,000 个 APP 样本上的实验结果显示，检测&lt;strong&gt;精度 96.30%、召回率 100%&lt;/strong&gt;，单 APP 平均探索时间仅 0.89 分钟。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="论文二mtntd-slm"&gt;论文二：MTNTD-SLM&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;题目：&lt;/strong&gt; MTNTD-SLM：一种基于多教师辩论和知识蒸馏的网络流量小语言模型&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;作者：&lt;/strong&gt; 刘少磊&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;会议：&lt;/strong&gt; IEEE SECON 2026（CCF B 类）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;简介：&lt;/strong&gt; 针对边缘设备无法部署大语言模型的问题，提出融合 TrafficLLM、TrafficGPT、DoLLM 三大教师模型的多教师辩论与知识蒸馏方法，将高质量推理知识迁移至 Qwen-0.5B/1.5B 轻量小模型。在五个公开加密流量数据集上达到当前最优性能（CSTNET 2023 F1 &lt;strong&gt;96.40%&lt;/strong&gt;，USTC-TFC 2016 F1 &lt;strong&gt;99.56%&lt;/strong&gt;），推理时延仅 &lt;strong&gt;12 毫秒&lt;/strong&gt;，可适配边缘端实际部署。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;恭喜张一、刘少磊同学取得优秀成果！🎉&lt;/p&gt;</description></item><item><title>联系我们</title><link>https://ujnloci.github.io/contact/</link><pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate><guid>https://ujnloci.github.io/contact/</guid><description>&lt;div class="grid gap-6 md:grid-cols-2 mt-8"&gt;
 &lt;div class="rounded-2xl border border-gray-200 dark:border-gray-700 p-6 shadow-sm bg-white dark:bg-gray-900"&gt;
 &lt;h2 id="-邮箱"&gt;📧 邮箱&lt;/h2&gt;
 &lt;p&gt;如有合作、交流或咨询需求，请优先通过邮箱联系：&lt;/p&gt;
@@ -229,7 +243,7 @@ data-callout-metadata=""&gt;
 format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p&gt;
 &lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
 &lt;p&gt;Demo:&lt;/p&gt;
-&lt;div id="chart-431569278" class="chart"&gt;&lt;/div&gt;
+&lt;div id="chart-275136498" class="chart"&gt;&lt;/div&gt;
 &lt;script&gt;
 (function() {
 async function fetchChartJSON() {
@@ -245,7 +259,7 @@ return;
 clearInterval( a );
 fetchChartJSON().then(chart =&gt; {
 console.debug('Plotting chart...')
-window.Plotly.newPlot('chart-431569278', chart.data, chart.layout, {responsive: true});
+window.Plotly.newPlot('chart-275136498', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
